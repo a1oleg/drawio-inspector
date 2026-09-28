@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "drawio-inspector": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/src/mcp.mjs"]
+    }
+  }
+}
